@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = "foxes"
-  s.version     = "1.0.2"
+  s.version     = "1.0.3"
   s.summary     = "An API for all your fox image needs"
   s.description = "An API for all your fox image needs"
   s.authors     = ["Arthur Melton"]
